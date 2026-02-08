@@ -1,0 +1,2 @@
+# Required for Excel (.xlsx) export. CSV export works without any dependencies.
+openpyxl>=3.0
